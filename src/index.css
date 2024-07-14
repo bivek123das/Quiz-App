@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.helo{
+  transition: all ease-in-out 0.9s;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+.helo:hover{
+   cursor: pointer;
+   background-color: #8594e4;
+}
